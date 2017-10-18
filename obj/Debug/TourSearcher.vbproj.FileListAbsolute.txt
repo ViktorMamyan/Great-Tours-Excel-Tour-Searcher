@@ -1,0 +1,158 @@
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.vbproj.ResolveComReference.cache
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.ExcelExtratcer.resources
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.Resources.resources
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.vbproj.GenerateResource.Cache
+C:\Users\Vitya\Desktop\WindowsApp1\bin\Debug\TourSearcher.exe.config
+C:\Users\Vitya\Desktop\WindowsApp1\bin\Debug\TourSearcher.exe
+C:\Users\Vitya\Desktop\WindowsApp1\bin\Debug\TourSearcher.pdb
+C:\Users\Vitya\Desktop\WindowsApp1\bin\Debug\TourSearcher.xml
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.exe
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.xml
+C:\Users\Vitya\Desktop\WindowsApp1\obj\Debug\TourSearcher.pdb
+C:\Users\Vitya\Desktop\TourSearcher\bin\Debug\TourSearcher.exe.config
+C:\Users\Vitya\Desktop\TourSearcher\bin\Debug\TourSearcher.exe
+C:\Users\Vitya\Desktop\TourSearcher\bin\Debug\TourSearcher.pdb
+C:\Users\Vitya\Desktop\TourSearcher\bin\Debug\TourSearcher.xml
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.vbproj.ResolveComReference.cache
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.ExcelExtracter.resources
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.Resources.resources
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.vbproj.GenerateResource.Cache
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.exe.licenses
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.exe
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.xml
+C:\Users\Vitya\Desktop\TourSearcher\obj\Debug\TourSearcher.pdb
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\bin\Debug\TourSearcher.exe.config
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.vbproj.ResolveComReference.cache
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.exe
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.pdb
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\bin\Debug\TourSearcher.exe
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\bin\Debug\TourSearcher.pdb
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\bin\Debug\TourSearcher.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.ExcelExtracter.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.Resources.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.vbproj.GenerateResource.Cache
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\with column filter\obj\Debug\TourSearcher.exe.licenses
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\TourSearcher.exe.config
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\TourSearcher.exe
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\TourSearcher.pdb
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\TourSearcher.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.vbproj.ResolveComReference.cache
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.ExcelExtracter.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.Resources.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.vbproj.GenerateResource.Cache
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.exe.licenses
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.exe
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\default (best way)\obj\Debug\TourSearcher.pdb
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\TourSearcher.exe.config
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\TourSearcher.exe
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\TourSearcher.pdb
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\TourSearcher.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.vbproj.ResolveComReference.cache
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.ExcelExtracter.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.Resources.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.Start_Form.resources
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.vbproj.GenerateResource.Cache
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.exe.licenses
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.exe
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.xml
+C:\Vitya\Projects\CP\Great Tours\TourSearcher\soft\obj\Debug\TourSearcher.pdb
